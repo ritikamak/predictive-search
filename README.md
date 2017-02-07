@@ -2,8 +2,7 @@
 An API that uses ajax to request a json object with search terms. 
 
 
-# assignment4
-AJAX
+Assignment4 -- AJAX
 
 In the template files provided, you are going to create a predictive search feature.
 
